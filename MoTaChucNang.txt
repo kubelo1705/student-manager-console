@@ -1,0 +1,14 @@
+CHƯƠNG TRÌNH GỒM CÁC CHỨC NĂNG
+**khi chương trình vừa chạy sẽ tự động thêm sẵn 20 sv vào data từ file course.csv để làm data mẫu
+-Thêm sinh viên ( sinh viên được tạo chỉ có tên và mssv, các số điểm còn lại tạm thời bằng 0)
+	+Nếu số lượng sinh viên hiện tại đủ(=số lượng sinh viên ban đầu mình đã nhập) thì không thể thêm
+	+Nếu mssv đã có trong danh sách thì sẽ được yêu cầu nhập lại
+-Xóa sinh viên bằng MSSV
+-Nhập điểm seminar
+-Nhập điểm thi giữa kì
+-Nhập điểm thi cuối kỳ
+-Sắp xếp sinh viên theo tên
+-Sắp xếp sinh viên theo điểm tổng kết
+-Tìm kiếm sinh viên bằng mssv(chức năng bổ sung)
+-Tìm kiếm sinh viên bằng tên(chức năng bổ sung)
+-Xuất file txt danh sách sinh viên(chức năng bổ sung)

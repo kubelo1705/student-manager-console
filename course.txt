@@ -1,0 +1,20 @@
+18200198,Tran Tan Phat,10,10,10
+18200275,Nguyen Thanh Tu,9.5,10,10
+18200280,Luong Thanh Tung,10,9,9
+18200255,Ha Thi Cam Tien,8.5,9,10
+18200267,Nguyen Phi Hung,9,5.5,10
+18200191,Cao Van Vo,8,4,10
+18200001,Truong Binh An,10,8,7
+18200002,Ho Hoa Binh,8.5,7,9.5
+18200199,Nguyen Ngoc,7.5,8.5,9
+18200015,Thich Du Thu,10,9,10
+18200178,Duong Nha,7.5,8,9
+18200113,Duong Tam,8,10,6.5
+18200114,Nguyen Ha Thuy,8,8,8
+18200115,Phan Phuc Nhan,9.5,7,10
+18200333,Do Bat Tu,3,3,3
+18200079,Do Tai Nhan,4,7,9
+18200007,Do Xi Ngau,6,6,6
+18200192,Huynh Nhat Huy,7,7,6
+18200100,Can Mot Ta,9,9,6
+18200102,Nguyen Duy Nhat,1,0,2
